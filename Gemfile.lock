@@ -162,6 +162,7 @@ DEPENDENCIES
   execjs
   jbuilder (~> 2.0)
   jquery-rails
+  minitest
   pg
   rails (= 4.1.0)
   rails_12factor
